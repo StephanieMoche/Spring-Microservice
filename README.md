@@ -1,4 +1,4 @@
-# Microservices: Communication between Departments and Employees
+# Spring Intercommunication: Communication between 2 Microservices
 ## Employee Service
 -This has all the employee information, as well as address information for all employees. 
 -The addresses are accessed via Spring Data JPA, and each address is displayed with it's corresponding employee.
