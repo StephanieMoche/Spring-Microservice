@@ -3,7 +3,7 @@ package com.example.departments;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+//this is the controller class
 @RestController
 @RequestMapping("/departments")
 public class DepartmentController {
